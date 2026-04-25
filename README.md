@@ -4,7 +4,7 @@
 Seja muito bem vinda(o) ao meu Perfil! ✨
 
 <div>
-  <img align="right" alt="Git-Computador" width="150px" height="150px" src="./Erica-main/ERICA-main/assets/Myself.gif"/>
+  <img align="right" alt="Git-Computador" width="150px" height="150px" src="https://github.com/elecktraleecomo/erica/raw/main/Erica-main/ERICA-main/assets/Myself.gif"/>
 </div>
 
 - Pronomes: ela/dela
