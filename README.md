@@ -26,8 +26,8 @@ Welcome to my profile! ✨
   <a href="https://www.linkedin.com/in/érica-mascarenhas/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 <br><br>
- <div>
-  <img align="center" alt="Pixel-Art" width="800px" src="Erica-main/ERICA-main/1.gif"/>
+<div>
+  <img align="center" alt="Pixel-Art" width="800px" src="https://github.com/elecktralee/erica/raw/main/Erica-main/ERICA-main/1.gif"/>
   <img align="center" alt="Pixel-Art" width="800px" src="Erica-main/ERICA-main/2.gif"/>
   <img align="center" alt="Pixel-Art" width="800px" src="Erica-main/ERICA-main/3.gif"/>
 </div>
